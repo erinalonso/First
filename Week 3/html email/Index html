@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Bitter|Open+Sans" rel="stylesheet">	<style type="text/css">
+		*{
+			margin:0;  
+			padding:0;
+		}
+      section#topbar{
+        background-color: #77878B;
+        padding:40px;
+        font-family: 'Bitter', serif;
+        color:#373E40;
+        font-size:20px;
+      }
+      body{
+        background-color: #373E40;
+      }
+      section#main{
+        background: #fff;
+        width: 600px;
+        margin: 20px auto;
+        border: 1px solid #ddd;
+        padding: 50px;
+
+      }
+      section#main img{
+        width: 400px;
+       display: block;
+       margin:0 auto;
+       border:1px solid #ccc;
+
+      }
+      section#main h2{
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+        margin-top: 25px;
+      }
+      section#main p{
+        width:400px;
+        font-size: 14px;
+        margin-top: 40px; 
+        margin: 15px auto;
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+      }
+	</style>
+	<title></title>
+</head>
+<body>
+	<section id="topbar"> 
+	Erin's Cocktail Bar
+	</section>
+  <section id="main">
+    <img src="http://esq.h-cdn.co/assets/cm/15/05/54ccf45e14058_-_esq-negroni-nuovo-100112-xlg.jpg">
+    <h2>
+      <strong>Negroni Week</strong>
+    </h2>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+  </section>
+
+</body>
+</html>
